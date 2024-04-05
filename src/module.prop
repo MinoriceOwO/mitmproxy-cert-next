@@ -1,0 +1,7 @@
+id=mitmproxy-cert-next
+name=MITMProxy Cert Next
+version=v1-alpha
+versionCode=1
+author=Minorice
+description=Adds the MITMProxy certificate to the system store (Android 14.0+)
+template=3

@@ -1,0 +1,10 @@
+# Environment config
+.env
+
+# Build artifacts / temps
+dist
+temp
+
+# IDEs' config
+/.vscode/
+/.idea/
