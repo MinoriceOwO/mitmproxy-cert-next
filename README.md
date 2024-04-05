@@ -20,7 +20,7 @@
 
 #### 1. 下载此模块
 
-你可以直接从 [GitHub Releases](https://github.com/MinoriceOwO/mitmproxy-cert-next/releases) 中下载 ZIP 包, 或者你也可以 clone 源代码后, 重新将源代码下的 `/src` 文件夹压缩为 ZIP 格式。
+你可以直接从 [GitHub Releases](https://github.com/MinoriceOwO/mitmproxy-cert-next/releases/latest) 中下载 ZIP 包, 或者你也可以 clone 源代码后, 重新将源代码下的 `/src` 文件夹压缩为 ZIP 格式。
 
 最终获得的 ZIP 包的结构应该类似这样:
 
